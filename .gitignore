@@ -1,3 +1,4 @@
 # 忽略常见 C 语言编译产物
 *.dSYM/
-
+prompt
+.DS_Store
