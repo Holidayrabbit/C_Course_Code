@@ -8,6 +8,7 @@
 			"args": [
 				"-fcolor-diagnostics",
 				"-fansi-escape-codes",
+				"-fuse-ld=lld",
 				"-g",
 				"${file}",
 				"-o",
